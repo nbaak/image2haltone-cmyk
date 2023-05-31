@@ -12,8 +12,12 @@ cd ./src
 python3 App.py
 ```
 
+Now the Service should be running on port 5000. To Access it go to <a src="http://localhost:5000">http://localhost:5000</a>.
+
 ## Required Packages
 
 ```bash
 python3 -m pip install pillow Flask
 ```
+
+Flask for the Webapp. Pillow to manipulate the Image.
